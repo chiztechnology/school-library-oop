@@ -151,7 +151,7 @@ If you like this project don't forget to share this with other people and to giv
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse
+I address my thanks to Microverse INC and it's community for the help provided
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
